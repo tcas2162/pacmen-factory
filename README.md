@@ -10,5 +10,5 @@ number of PacMen can be added before or during the game. They all move
 at random velocities in random directions throughout the page. Collision
 detection is enabled both horizontally and vertically, preventing the
 Pacmen from going off-screen and helping each one to retain control of
-its position and velocity. The PacMen are generated with an <img /> tag
+its position and velocity. The PacMen are generated with an image tag
 and added to the DOM.
